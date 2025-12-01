@@ -1,0 +1,6 @@
+folder_path : "C:\\Users\\saadr\\Downloads\\2511-ml-case-study\\data\\original_data"
+renamed_output_path: "C:\\Users\\saadr\\Downloads\\2511-ml-case-study\\data\\renamed_files"
+renamed_processed_output_path: "C:\\Users\\saadr\\Downloads\\2511-ml-case-study\\data\\renamed_processed_files"
+output_csv_path: "C:\\Users\\saadr\\Downloads\\2511-ml-case-study\\data\\processed_data"
+json_path: "C:\\Users\\saadr\\Downloads\\2511-ml-case-study\\data"
+output_dir: "C:\\Users\\saadr\\Downloads\\2511-ml-case-study\\data\\outputs"

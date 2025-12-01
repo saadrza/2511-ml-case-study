@@ -1,0 +1,14 @@
+{
+    "0": "Timestamp_Epoch",
+    "1": "Timestamp_Seconds",
+    "2": "Cable_X",
+    "3": "Cable_Y",
+    "4": "Cable_Z",
+    "5": "Cable_offset_distance",
+    "6": "Offsets_1",
+    "7": "Offsets_2",
+    "8": "Offsets_3",
+    "9": "Offsets_4",
+    "10": "Offsets_5",
+    "11": "Cable_Lock"
+}
